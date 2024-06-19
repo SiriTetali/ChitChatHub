@@ -1,3 +1,15 @@
+# Welcome to my Chat application
+  Sockets, Rest APIs, Sending Images, React Hooks, Props, and CSS of choices,
+  Chat Engine(https://chatengine.io/) is a set of APIs and UI Kit specific to chat.
+  I have deployed the website using netlify.
+  Here is the website link [https://chattnow.netlify.app/](https://chattnow.netlify.app/)
+  
+ ![Screenshot 2024-06-19 225246](https://github.com/SiriTetali/ChitChatHub/assets/117676879/97175fab-8019-4c0b-a466-3705c90adc71)
+
+
+![Screenshot 2024-06-19 225104](https://github.com/SiriTetali/ChitChatHub/assets/117676879/1186c6d5-a07b-4601-8631-cd1b8b84da8d)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
